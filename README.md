@@ -1,2 +1,2 @@
 # phonebook
-# телефонный справочник mango office
+телефонный справочник mango office
